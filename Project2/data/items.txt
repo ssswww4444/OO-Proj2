@@ -1,0 +1,4 @@
+Amulet of Vitality:amulet.png:965:3563
+Sword of Strength:sword.png:546:6707
+Tome of Agility:tome.png:4791:1253
+Elixir of Life:elixir.png:1976:402
